@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Demskur
 - 👀 I’m interested in electronic devices and programming
-- 🌱 I’m currently learning React, MaterialUI, Java
+- 🌱 I’m currently learning React, MaterialUI, Java, Yocto, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
